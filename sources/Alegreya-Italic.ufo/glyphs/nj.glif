@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nj" format="2">
+  <advance width="741"/>
+  <unicode hex="01CC"/>
+  <anchor x="225" y="0" name="bottom_1"/>
+  <anchor x="739" y="0" name="bottom_2"/>
+  <anchor x="281" y="452" name="top_1"/>
+  <anchor x="621" y="463" name="top_2"/>
+  <outline>
+    <component base="n"/>
+    <component base="j" xOffset="496"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>850</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikavaria" format="2">
+  <outline>
+    <contour>
+      <point x="137.686" y="648.898" type="line"/>
+      <point x="137.474" y="658.292" type="line"/>
+      <point x="180.796" y="689.048" type="line"/>
+      <point x="190.19" y="689.26" type="line"/>
+      <point x="218.83" y="632.49"/>
+      <point x="248.284" y="576.762"/>
+      <point x="281.564" y="520.562" type="curve"/>
+      <point x="255.206" y="505.078" type="line"/>
+      <point x="246.74" y="504.98" type="line"/>
+    </contour>
+  </outline>
+</glyph>

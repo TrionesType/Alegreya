@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa-cy" format="2">
+  <advance width="429"/>
+  <unicode hex="04D9"/>
+  <anchor x="243" y="472" name="bottom"/>
+  <anchor x="72" y="462" name="ogonek"/>
+  <anchor x="155" y="0" name="top"/>
+  <outline>
+    <component base="schwa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>850</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisgrave.sc" format="2">
+  <advance width="554"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="468" y="10" name="ogonek"/>
+  <anchor x="344" y="816" name="top"/>
+  <anchor x="565" y="497" name="topright"/>
+  <outline>
+    <component base="dieresiscomb_gravecomb" xOffset="93" yOffset="5"/>
+    <component base="u.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>850</integer>
+    </dict>
+  </lib>
+</glyph>
