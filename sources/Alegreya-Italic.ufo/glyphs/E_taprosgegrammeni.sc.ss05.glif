@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etaprosgegrammeni.sc.ss05" format="2">
-  <advance width="1030"/>
-  <anchor x="334" y="0" name="bottom_1"/>
-  <anchor x="846" y="0" name="bottom_2"/>
-  <anchor x="566" y="106" name="bottomright"/>
-  <anchor x="373" y="318" name="center"/>
-  <anchor x="958" y="35" name="ogonek"/>
-  <anchor x="412" y="636" name="top_1"/>
-  <anchor x="908" y="497" name="top_2"/>
-  <anchor x="5" y="637" name="topleft"/>
+  <advance width="1091"/>
+  <anchor x="395" y="0" name="bottom_1"/>
+  <anchor x="907" y="0" name="bottom_2"/>
+  <anchor x="627" y="106" name="bottomright"/>
+  <anchor x="434" y="318" name="center"/>
+  <anchor x="1019" y="35" name="ogonek"/>
+  <anchor x="473" y="636" name="top_1"/>
+  <anchor x="969" y="497" name="top_2"/>
+  <anchor x="66" y="637" name="topleft"/>
   <outline>
-    <component base="Eta"/>
-    <component base="iota.sc" xOffset="723"/>
+    <component base="Eta" xOffset="61"/>
+    <component base="iota.sc" xOffset="784"/>
   </outline>
   <lib>
     <dict>
@@ -21,8 +21,6 @@
       <string>=i.sc</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

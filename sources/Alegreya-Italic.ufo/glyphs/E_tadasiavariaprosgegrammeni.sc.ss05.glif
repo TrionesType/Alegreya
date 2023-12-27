@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etadasiavariaprosgegrammeni.sc.ss05" format="2">
   <advance width="1326"/>
-  <anchor x="630" y="0" name="bottom_1"/>
-  <anchor x="1142" y="0" name="bottom_2"/>
-  <anchor x="862" y="106" name="bottomright"/>
-  <anchor x="669" y="318" name="center"/>
-  <anchor x="1254" y="35" name="ogonek"/>
-  <anchor x="708" y="636" name="top_1"/>
-  <anchor x="1204" y="497" name="top_2"/>
-  <anchor x="301" y="637" name="topleft"/>
+  <anchor x="691" y="0" name="bottom_1"/>
+  <anchor x="1203" y="0" name="bottom_2"/>
+  <anchor x="923" y="106" name="bottomright"/>
+  <anchor x="730" y="318" name="center"/>
+  <anchor x="1315" y="35" name="ogonek"/>
+  <anchor x="769" y="636" name="top_1"/>
+  <anchor x="1265" y="497" name="top_2"/>
+  <anchor x="362" y="637" name="topleft"/>
   <outline>
     <component base="Etaprosgegrammeni.sc.ss05" xOffset="296"/>
     <component base="dasiavaria.case" xOffset="6" yOffset="-36"/>
@@ -32,8 +32,6 @@
       <string>=i.sc</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

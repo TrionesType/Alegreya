@@ -8,10 +8,4 @@
     <component base="Zhe-cy"/>
     <component base="brevecomb-cy.case" xOffset="291" yOffset="173"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

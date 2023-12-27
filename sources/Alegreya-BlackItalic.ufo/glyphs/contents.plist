@@ -212,8 +212,8 @@
     <string>D_elta.sups.glif</string>
     <key>Dje-cy</key>
     <string>D_je-cy.glif</string>
-    <key>Dlinebelow</key>
-    <string>D_linebelow.glif</string>
+    <key>Dmacronbelow</key>
+    <string>D_macronbelow.glif</string>
     <key>Dzcaron</key>
     <string>D_zcaron.glif</string>
     <key>Dze-cy</key>
@@ -272,12 +272,12 @@
     <string>E_macrongrave.glif</string>
     <key>En-cy</key>
     <string>E_n-cy.glif</string>
+    <key>EnGe-cy</key>
+    <string>E_nG_e-cy.glif</string>
     <key>Endescender-cy</key>
     <string>E_ndescender-cy.glif</string>
     <key>Eng</key>
     <string>E_ng.glif</string>
-    <key>Enghe-cy</key>
-    <string>E_nghe-cy.glif</string>
     <key>Entail-cy</key>
     <string>E_ntail-cy.glif</string>
     <key>Eogonek</key>
@@ -428,18 +428,18 @@
     <string>G_e-cy.glif</string>
     <key>Gedescender-cy</key>
     <string>G_edescender-cy.glif</string>
+    <key>Gemiddlehook-cy</key>
+    <string>G_emiddlehook-cy.glif</string>
     <key>Germandbls</key>
     <string>G_ermandbls.glif</string>
     <key>Germandbls.alt</key>
     <string>G_ermandbls.alt.glif</string>
-    <key>Ghemiddlehook-cy</key>
-    <string>G_hemiddlehook-cy.glif</string>
-    <key>Ghestroke-cy</key>
-    <string>G_hestroke-cy.glif</string>
-    <key>Ghestroke-cy.loclBSH</key>
-    <string>G_hestroke-cy.loclB_S_H_.glif</string>
-    <key>Gheupturn-cy</key>
-    <string>G_heupturn-cy.glif</string>
+    <key>Gestroke-cy</key>
+    <string>G_estroke-cy.glif</string>
+    <key>Gestroke-cy.loclBSH</key>
+    <string>G_estroke-cy.loclB_S_H_.glif</string>
+    <key>Geupturn-cy</key>
+    <string>G_eupturn-cy.glif</string>
     <key>Gje-cy</key>
     <string>G_je-cy.glif</string>
     <key>Gmacron</key>
@@ -474,8 +474,6 @@
     <string>I_.ss01.glif</string>
     <key>IJ</key>
     <string>I_J_.glif</string>
-    <key>Ia-cy</key>
-    <string>I_a-cy.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
     <key>Iacute_J.loclNLD</key>
@@ -558,8 +556,6 @@
     <string>I_otavrachy.glif</string>
     <key>Itilde</key>
     <string>I_tilde.glif</string>
-    <key>Iu-cy</key>
-    <string>I_u-cy.glif</string>
     <key>Izhitsa-cy</key>
     <string>I_zhitsa-cy.glif</string>
     <key>J</key>
@@ -614,8 +610,8 @@
     <string>L_j.glif</string>
     <key>Lje-cy</key>
     <string>L_je-cy.glif</string>
-    <key>Llinebelow</key>
-    <string>L_linebelow.glif</string>
+    <key>Lmacronbelow</key>
+    <string>L_macronbelow.glif</string>
     <key>Lslash</key>
     <string>L_slash.glif</string>
     <key>M</key>
@@ -632,6 +628,8 @@
     <string>N_.glif</string>
     <key>NJ</key>
     <string>N_J_.glif</string>
+    <key>NULL</key>
+    <string>N_U_L_L_.glif</string>
     <key>Nacute</key>
     <string>N_acute.glif</string>
     <key>Ncaron</key>
@@ -646,8 +644,8 @@
     <string>N_j.glif</string>
     <key>Nje-cy</key>
     <string>N_je-cy.glif</string>
-    <key>Nlinebelow</key>
-    <string>N_linebelow.glif</string>
+    <key>Nmacronbelow</key>
+    <string>N_macronbelow.glif</string>
     <key>Ntilde</key>
     <string>N_tilde.glif</string>
     <key>Nu</key>
@@ -884,8 +882,8 @@
     <string>R_hodasia.glif</string>
     <key>Rinvertedbreve</key>
     <string>R_invertedbreve.glif</string>
-    <key>Rlinebelow</key>
-    <string>R_linebelow.glif</string>
+    <key>Rmacronbelow</key>
+    <string>R_macronbelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
     <key>Sacute</key>
@@ -954,8 +952,8 @@
     <string>T_heta.sups.glif</string>
     <key>Thorn</key>
     <string>T_horn.glif</string>
-    <key>Tlinebelow</key>
-    <string>T_linebelow.glif</string>
+    <key>Tmacronbelow</key>
+    <string>T_macronbelow.glif</string>
     <key>Tse-cy</key>
     <string>T_se-cy.glif</string>
     <key>Tshe-cy</key>
@@ -1046,10 +1044,10 @@
     <string>U_ring.glif</string>
     <key>Ushort-cy</key>
     <string>U_short-cy.glif</string>
-    <key>Ustrait-cy</key>
-    <string>U_strait-cy.glif</string>
-    <key>Ustraitstroke-cy</key>
-    <string>U_straitstroke-cy.glif</string>
+    <key>Ustraight-cy</key>
+    <string>U_straight-cy.glif</string>
+    <key>Ustraightstroke-cy</key>
+    <string>U_straightstroke-cy.glif</string>
     <key>Utilde</key>
     <string>U_tilde.glif</string>
     <key>Utildeacute</key>
@@ -1082,6 +1080,8 @@
     <string>X_i.sups.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Ya-cy</key>
+    <string>Y_a-cy.glif</string>
     <key>Yacute</key>
     <string>Y_acute.glif</string>
     <key>Yat-cy</key>
@@ -1108,6 +1108,8 @@
     <string>Y_macron.glif</string>
     <key>Ytilde</key>
     <string>Y_tilde.glif</string>
+    <key>Yu-cy</key>
+    <string>Y_u-cy.glif</string>
     <key>Yusbig-cy</key>
     <string>Y_usbig-cy.glif</string>
     <key>Z</key>
@@ -1740,10 +1742,10 @@
     <string>dje-cy.glif</string>
     <key>dje-cy.sc</key>
     <string>dje-cy.sc.glif</string>
-    <key>dlinebelow</key>
-    <string>dlinebelow.glif</string>
-    <key>dlinebelow.sc</key>
-    <string>dlinebelow.sc.glif</string>
+    <key>dmacronbelow</key>
+    <string>dmacronbelow.glif</string>
+    <key>dmacronbelow.sc</key>
+    <string>dmacronbelow.sc.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>dollar.BRACKET.varAlt01</key>
@@ -1862,10 +1864,10 @@
     <string>eight.glif</string>
     <key>eight.dnom</key>
     <string>eight.dnom.glif</string>
-    <key>eight.lf</key>
-    <string>eight.lf.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
+    <key>eight.osf</key>
+    <string>eight.osf.glif</string>
     <key>eight.sinf</key>
     <string>eight.sinf.glif</string>
     <key>eight.subs</key>
@@ -1928,10 +1930,10 @@
     <string>eng.glif</string>
     <key>eng.sc</key>
     <string>eng.sc.glif</string>
-    <key>enghe-cy</key>
-    <string>enghe-cy.glif</string>
-    <key>enghe-cy.sc</key>
-    <string>enghe-cy.sc.glif</string>
+    <key>enge-cy</key>
+    <string>enge-cy.glif</string>
+    <key>enge-cy.sc</key>
+    <string>enge-cy.sc.glif</string>
     <key>entail-cy</key>
     <string>entail-cy.glif</string>
     <key>entail-cy.001</key>
@@ -2192,10 +2194,10 @@
     <string>five.glif</string>
     <key>five.dnom</key>
     <string>five.dnom.glif</string>
-    <key>five.lf</key>
-    <string>five.lf.glif</string>
     <key>five.numr</key>
     <string>five.numr.glif</string>
+    <key>five.osf</key>
+    <string>five.osf.glif</string>
     <key>five.sinf</key>
     <string>five.sinf.glif</string>
     <key>five.subs</key>
@@ -2224,10 +2226,10 @@
     <string>four.glif</string>
     <key>four.dnom</key>
     <string>four.dnom.glif</string>
-    <key>four.lf</key>
-    <string>four.lf.glif</string>
     <key>four.numr</key>
     <string>four.numr.glif</string>
+    <key>four.osf</key>
+    <string>four.osf.glif</string>
     <key>four.sinf</key>
     <string>four.sinf.glif</string>
     <key>four.subs</key>
@@ -2296,28 +2298,28 @@
     <string>gedescender-cy.glif</string>
     <key>gedescender-cy.sc</key>
     <string>gedescender-cy.sc.glif</string>
+    <key>gemiddlehook-cy</key>
+    <string>gemiddlehook-cy.glif</string>
+    <key>gemiddlehook-cy.sc</key>
+    <string>gemiddlehook-cy.sc.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>germandbls.alt.sc</key>
     <string>germandbls.alt.sc.glif</string>
     <key>germandbls.sc</key>
     <string>germandbls.sc.glif</string>
-    <key>ghemiddlehook-cy</key>
-    <string>ghemiddlehook-cy.glif</string>
-    <key>ghemiddlehook-cy.sc</key>
-    <string>ghemiddlehook-cy.sc.glif</string>
-    <key>ghestroke-cy</key>
-    <string>ghestroke-cy.glif</string>
-    <key>ghestroke-cy.loclBSH</key>
-    <string>ghestroke-cy.loclB_S_H_.glif</string>
-    <key>ghestroke-cy.loclBSH.sc</key>
-    <string>ghestroke-cy.loclB_S_H_.sc.glif</string>
-    <key>ghestroke-cy.sc</key>
-    <string>ghestroke-cy.sc.glif</string>
-    <key>gheupturn-cy</key>
-    <string>gheupturn-cy.glif</string>
-    <key>gheupturn-cy.sc</key>
-    <string>gheupturn-cy.sc.glif</string>
+    <key>gestroke-cy</key>
+    <string>gestroke-cy.glif</string>
+    <key>gestroke-cy.loclBSH</key>
+    <string>gestroke-cy.loclB_S_H_.glif</string>
+    <key>gestroke-cy.loclBSH.sc</key>
+    <string>gestroke-cy.loclB_S_H_.sc.glif</string>
+    <key>gestroke-cy.sc</key>
+    <string>gestroke-cy.sc.glif</string>
+    <key>geupturn-cy</key>
+    <string>geupturn-cy.glif</string>
+    <key>geupturn-cy.sc</key>
+    <string>geupturn-cy.sc.glif</string>
     <key>gje-cy</key>
     <string>gje-cy.glif</string>
     <key>gje-cy.loclMKD</key>
@@ -2440,10 +2442,6 @@
     <string>i.ss01.glif</string>
     <key>i.sups</key>
     <string>i.sups.glif</string>
-    <key>ia-cy</key>
-    <string>ia-cy.glif</string>
-    <key>ia-cy.sc</key>
-    <string>ia-cy.sc.glif</string>
     <key>iacute</key>
     <string>iacute.glif</string>
     <key>iacute.sc</key>
@@ -2644,10 +2642,6 @@
     <string>itilde.glif</string>
     <key>itilde.sc</key>
     <string>itilde.sc.glif</string>
-    <key>iu-cy</key>
-    <string>iu-cy.glif</string>
-    <key>iu-cy.sc</key>
-    <string>iu-cy.sc.glif</string>
     <key>izhitsa-cy</key>
     <string>izhitsa-cy.glif</string>
     <key>izhitsa-cy.sc</key>
@@ -2792,10 +2786,10 @@
     <string>lje-cy.glif</string>
     <key>lje-cy.sc</key>
     <string>lje-cy.sc.glif</string>
-    <key>llinebelow</key>
-    <string>llinebelow.glif</string>
-    <key>llinebelow.sc</key>
-    <string>llinebelow.sc.glif</string>
+    <key>lmacronbelow</key>
+    <string>lmacronbelow.glif</string>
+    <key>lmacronbelow.sc</key>
+    <string>lmacronbelow.sc.glif</string>
     <key>lmod</key>
     <string>lmod.glif</string>
     <key>logicalnot</key>
@@ -2894,10 +2888,10 @@
     <string>nine.glif</string>
     <key>nine.dnom</key>
     <string>nine.dnom.glif</string>
-    <key>nine.lf</key>
-    <string>nine.lf.glif</string>
     <key>nine.numr</key>
     <string>nine.numr.glif</string>
+    <key>nine.osf</key>
+    <string>nine.osf.glif</string>
     <key>nine.sinf</key>
     <string>nine.sinf.glif</string>
     <key>nine.subs</key>
@@ -2920,10 +2914,10 @@
     <string>nje-cy.glif</string>
     <key>nje-cy.sc</key>
     <string>nje-cy.sc.glif</string>
-    <key>nlinebelow</key>
-    <string>nlinebelow.glif</string>
-    <key>nlinebelow.sc</key>
-    <string>nlinebelow.sc.glif</string>
+    <key>nmacronbelow</key>
+    <string>nmacronbelow.glif</string>
+    <key>nmacronbelow.sc</key>
+    <string>nmacronbelow.sc.glif</string>
     <key>nmod</key>
     <string>nmod.glif</string>
     <key>northEastArrow</key>
@@ -3254,10 +3248,10 @@
     <string>one.glif</string>
     <key>one.dnom</key>
     <string>one.dnom.glif</string>
-    <key>one.lf</key>
-    <string>one.lf.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
+    <key>one.osf</key>
+    <string>one.osf.glif</string>
     <key>one.sinf</key>
     <string>one.sinf.glif</string>
     <key>one.subs</key>
@@ -3546,10 +3540,10 @@
     <string>rinvertedbreve.glif</string>
     <key>rinvertedbreve.sc</key>
     <string>rinvertedbreve.sc.glif</string>
-    <key>rlinebelow</key>
-    <string>rlinebelow.glif</string>
-    <key>rlinebelow.sc</key>
-    <string>rlinebelow.sc.glif</string>
+    <key>rmacronbelow</key>
+    <string>rmacronbelow.glif</string>
+    <key>rmacronbelow.sc</key>
+    <string>rmacronbelow.sc.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
     <key>rupeeIndian</key>
@@ -3624,10 +3618,10 @@
     <string>seven.glif</string>
     <key>seven.dnom</key>
     <string>seven.dnom.glif</string>
-    <key>seven.lf</key>
-    <string>seven.lf.glif</string>
     <key>seven.numr</key>
     <string>seven.numr.glif</string>
+    <key>seven.osf</key>
+    <string>seven.osf.glif</string>
     <key>seven.sinf</key>
     <string>seven.sinf.glif</string>
     <key>seven.subs</key>
@@ -3672,10 +3666,10 @@
     <string>six.glif</string>
     <key>six.dnom</key>
     <string>six.dnom.glif</string>
-    <key>six.lf</key>
-    <string>six.lf.glif</string>
     <key>six.numr</key>
     <string>six.numr.glif</string>
+    <key>six.osf</key>
+    <string>six.osf.glif</string>
     <key>six.sinf</key>
     <string>six.sinf.glif</string>
     <key>six.subs</key>
@@ -3784,10 +3778,10 @@
     <string>three.glif</string>
     <key>three.dnom</key>
     <string>three.dnom.glif</string>
-    <key>three.lf</key>
-    <string>three.lf.glif</string>
     <key>three.numr</key>
     <string>three.numr.glif</string>
+    <key>three.osf</key>
+    <string>three.osf.glif</string>
     <key>three.sinf</key>
     <string>three.sinf.glif</string>
     <key>three.subs</key>
@@ -3824,10 +3818,10 @@
     <string>tildecomb_macroncomb.glif</string>
     <key>tildecomb_macroncomb.case</key>
     <string>tildecomb_macroncomb.case.glif</string>
-    <key>tlinebelow</key>
-    <string>tlinebelow.glif</string>
-    <key>tlinebelow.sc</key>
-    <string>tlinebelow.sc.glif</string>
+    <key>tmacronbelow</key>
+    <string>tmacronbelow.glif</string>
+    <key>tmacronbelow.sc</key>
+    <string>tmacronbelow.sc.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
     <key>trademark</key>
@@ -3846,10 +3840,10 @@
     <string>two.glif</string>
     <key>two.dnom</key>
     <string>two.dnom.glif</string>
-    <key>two.lf</key>
-    <string>two.lf.glif</string>
     <key>two.numr</key>
     <string>two.numr.glif</string>
+    <key>two.osf</key>
+    <string>two.osf.glif</string>
     <key>two.sinf</key>
     <string>two.sinf.glif</string>
     <key>two.subs</key>
@@ -3984,8 +3978,6 @@
     <string>umacrondieresis.sc.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
-    <key>uni0000</key>
-    <string>uni0000.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>uogonek.sc</key>
@@ -4088,14 +4080,14 @@
     <string>ushort-cy.glif</string>
     <key>ushort-cy.sc</key>
     <string>ushort-cy.sc.glif</string>
-    <key>ustrait-cy</key>
-    <string>ustrait-cy.glif</string>
-    <key>ustrait-cy.sc</key>
-    <string>ustrait-cy.sc.glif</string>
-    <key>ustraitstroke-cy</key>
-    <string>ustraitstroke-cy.glif</string>
-    <key>ustraitstroke-cy.sc</key>
-    <string>ustraitstroke-cy.sc.glif</string>
+    <key>ustraight-cy</key>
+    <string>ustraight-cy.glif</string>
+    <key>ustraight-cy.sc</key>
+    <string>ustraight-cy.sc.glif</string>
+    <key>ustraightstroke-cy</key>
+    <string>ustraightstroke-cy.glif</string>
+    <key>ustraightstroke-cy.sc</key>
+    <string>ustraightstroke-cy.sc.glif</string>
     <key>utilde</key>
     <string>utilde.glif</string>
     <key>utilde.sc</key>
@@ -4184,6 +4176,10 @@
     <string>y.sc.glif</string>
     <key>y.sups</key>
     <string>y.sups.glif</string>
+    <key>ya-cy</key>
+    <string>ya-cy.glif</string>
+    <key>ya-cy.sc</key>
+    <string>ya-cy.sc.glif</string>
     <key>yacute</key>
     <string>yacute.glif</string>
     <key>yacute.sc</key>
@@ -4244,6 +4240,10 @@
     <string>ytilde.glif</string>
     <key>ytilde.sc</key>
     <string>ytilde.sc.glif</string>
+    <key>yu-cy</key>
+    <string>yu-cy.glif</string>
+    <key>yu-cy.sc</key>
+    <string>yu-cy.sc.glif</string>
     <key>yusbig-cy</key>
     <string>yusbig-cy.glif</string>
     <key>yusbig-cy.sc</key>
@@ -4290,10 +4290,10 @@
     <string>zero.glif</string>
     <key>zero.dnom</key>
     <string>zero.dnom.glif</string>
-    <key>zero.lf</key>
-    <string>zero.lf.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
+    <key>zero.osf</key>
+    <string>zero.osf.glif</string>
     <key>zero.sinf</key>
     <string>zero.sinf.glif</string>
     <key>zero.subs</key>

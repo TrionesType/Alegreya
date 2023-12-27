@@ -304,6 +304,7 @@
       <string>F</string>
       <string>f.sc</string>
       <string>Ghestroke-cy.loclBSH</string>
+      <string>Gestroke-cy.loclBSH</string>
     </array>
     <key>public.kern1.G</key>
     <array>
@@ -336,6 +337,10 @@
       <string>gedescender-cy.sc</string>
       <string>Gamma</string>
       <string>gamma.sc</string>
+      <string>Gestroke-cy</string>
+      <string>EnGe-cy</string>
+      <string>gestroke-cy.sc</string>
+      <string>enge-cy.sc</string>
     </array>
     <key>public.kern1.Gamma.sups</key>
     <array>
@@ -345,6 +350,8 @@
     <array>
       <string>Gheupturn-cy</string>
       <string>gheupturn-cy.sc</string>
+      <string>Geupturn-cy</string>
+      <string>geupturn-cy.sc</string>
     </array>
     <key>public.kern1.Germandbls</key>
     <array>
@@ -354,6 +361,8 @@
     <array>
       <string>Ghemiddlehook-cy</string>
       <string>ghemiddlehook-cy.sc</string>
+      <string>Gemiddlehook-cy</string>
+      <string>gemiddlehook-cy.sc</string>
     </array>
     <key>public.kern1.H</key>
     <array>
@@ -574,6 +583,9 @@
       <string>etapsiliperispomeniypogegrammeni.sc.ss05</string>
       <string>etadasiaperispomeniypogegrammeni.sc.ss05</string>
       <string>etaperispomeniypogegrammeni.sc.ss05</string>
+      <string>nmacronbelow.sc</string>
+      <string>Ya-cy</string>
+      <string>ya-cy.sc</string>
     </array>
     <key>public.kern1.H.sups</key>
     <array>
@@ -623,6 +635,7 @@
       <string>ldotbelow.sc</string>
       <string>llinebelow.sc</string>
       <string>lslash.sc</string>
+      <string>lmacronbelow.sc</string>
     </array>
     <key>public.kern1.M</key>
     <array>
@@ -668,6 +681,7 @@
       <string>Omacron</string>
       <string>Oslash</string>
       <string>Oslashacute</string>
+      <string>Oslashacute.BRACKET.120</string>
       <string>Otilde</string>
       <string>Q</string>
       <string>Schwa</string>
@@ -710,6 +724,7 @@
       <string>oogonek.sc</string>
       <string>oslash.sc</string>
       <string>oslashacute.sc</string>
+      <string>oslashacute.sc.BRACKET.120</string>
       <string>otilde.sc</string>
       <string>otildeacute.sc</string>
       <string>otildedieresis.sc</string>
@@ -754,6 +769,9 @@
       <string>omicrondasiaoxia.sc</string>
       <string>omicronvaria.sc</string>
       <string>omicronoxia.sc</string>
+      <string>dmacronbelow.sc</string>
+      <string>Yu-cy</string>
+      <string>yu-cy.sc</string>
       <string>Oslash.BRACKET.varAlt01</string>
       <string>Oslashacute.BRACKET.varAlt01</string>
       <string>oslash.sc.BRACKET.varAlt01</string>
@@ -871,6 +889,7 @@
       <string>rdotbelow.sc</string>
       <string>rinvertedbreve.sc</string>
       <string>rlinebelow.sc</string>
+      <string>rmacronbelow.sc</string>
     </array>
     <key>public.kern1.S</key>
     <array>
@@ -929,6 +948,7 @@
       <string>te-cy.sc</string>
       <string>Tau</string>
       <string>tau.sc</string>
+      <string>tmacronbelow.sc</string>
     </array>
     <key>public.kern1.T.sups</key>
     <array>
@@ -1124,6 +1144,10 @@
       <string>upsilondialytikavaria.sc</string>
       <string>upsilondialytikaoxia.sc</string>
       <string>upsilondialytikaperispomeni.sc</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
+      <string>ustraight-cy.sc</string>
+      <string>ustraightstroke-cy.sc</string>
     </array>
     <key>public.kern1.Y.sups</key>
     <array>
@@ -1357,11 +1381,14 @@
     <key>public.kern1.ghemiddlehook-cy</key>
     <array>
       <string>ghemiddlehook-cy</string>
+      <string>gemiddlehook-cy</string>
     </array>
     <key>public.kern1.gheupturn-cy</key>
     <array>
       <string>gheupturn-cy</string>
       <string>enghe-cy</string>
+      <string>geupturn-cy</string>
+      <string>enge-cy</string>
     </array>
     <key>public.kern1.hyphen</key>
     <array>
@@ -1561,6 +1588,7 @@
       <string>omacron</string>
       <string>oslash</string>
       <string>oslashacute</string>
+      <string>oslashacute.BRACKET.120</string>
       <string>otilde</string>
       <string>p</string>
       <string>thorn</string>
@@ -1592,6 +1620,8 @@
       <string>omicronoxia</string>
       <string>rhopsili</string>
       <string>rhodasia</string>
+      <string>gestroke-cy</string>
+      <string>yu-cy</string>
       <string>oslash.BRACKET.varAlt01</string>
       <string>oslashacute.BRACKET.varAlt01</string>
     </array>
@@ -1781,6 +1811,7 @@
       <string>chedieresis-cy</string>
       <string>yerudieresis-cy</string>
       <string>mu</string>
+      <string>ya-cy</string>
     </array>
     <key>public.kern1.u.sups</key>
     <array>
@@ -1844,6 +1875,8 @@
       <string>udieresis-cy</string>
       <string>uhungarumlaut-cy</string>
       <string>we-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
     </array>
     <key>public.kern1.ve-cy</key>
     <array>
@@ -2128,6 +2161,8 @@
     <array>
       <string>Ghestroke-cy</string>
       <string>ghestroke-cy.sc</string>
+      <string>Gestroke-cy</string>
+      <string>gestroke-cy.sc</string>
     </array>
     <key>public.kern2.H</key>
     <array>
@@ -2451,6 +2486,19 @@
       <string>etapsiliperispomeniypogegrammeni.sc.ss05</string>
       <string>etadasiaperispomeniypogegrammeni.sc.ss05</string>
       <string>etaperispomeniypogegrammeni.sc.ss05</string>
+      <string>dmacronbelow.sc</string>
+      <string>lmacronbelow.sc</string>
+      <string>nmacronbelow.sc</string>
+      <string>rmacronbelow.sc</string>
+      <string>Geupturn-cy</string>
+      <string>Gemiddlehook-cy</string>
+      <string>Yu-cy</string>
+      <string>EnGe-cy</string>
+      <string>Gestroke-cy.loclBSH</string>
+      <string>geupturn-cy.sc</string>
+      <string>gemiddlehook-cy.sc</string>
+      <string>yu-cy.sc</string>
+      <string>enge-cy.sc</string>
     </array>
     <key>public.kern2.H.sups</key>
     <array>
@@ -2473,6 +2521,8 @@
     <array>
       <string>Ia-cy</string>
       <string>ia-cy.sc</string>
+      <string>Ya-cy</string>
+      <string>ya-cy.sc</string>
     </array>
     <key>public.kern2.J</key>
     <array>
@@ -2540,6 +2590,7 @@
       <string>Omacron</string>
       <string>Oslash</string>
       <string>Oslashacute</string>
+      <string>Oslashacute.BRACKET.120</string>
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
@@ -2591,6 +2642,7 @@
       <string>oogonek.sc</string>
       <string>oslash.sc</string>
       <string>oslashacute.sc</string>
+      <string>oslashacute.sc.BRACKET.120</string>
       <string>otilde.sc</string>
       <string>otildeacute.sc</string>
       <string>otildedieresis.sc</string>
@@ -2773,6 +2825,7 @@
       <string>kabashkir-cy.sc</string>
       <string>Tau</string>
       <string>tau.sc</string>
+      <string>tmacronbelow.sc</string>
     </array>
     <key>public.kern2.T.sups</key>
     <array>
@@ -2963,6 +3016,10 @@
       <string>upsilondialytikavaria.sc</string>
       <string>upsilondialytikaoxia.sc</string>
       <string>upsilondialytikaperispomeni.sc</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
+      <string>ustraight-cy.sc</string>
+      <string>ustraightstroke-cy.sc</string>
     </array>
     <key>public.kern2.Y.sups</key>
     <array>
@@ -3329,6 +3386,10 @@
       <string>etapsiliperispomeniypogegrammeni</string>
       <string>etadasiaperispomeniypogegrammeni</string>
       <string>etaperispomeniypogegrammeni</string>
+      <string>geupturn-cy</string>
+      <string>gemiddlehook-cy</string>
+      <string>yu-cy</string>
+      <string>enge-cy</string>
     </array>
     <key>public.kern2.n.sups</key>
     <array>
@@ -3424,6 +3485,7 @@
       <string>omacron</string>
       <string>oslash</string>
       <string>oslashacute</string>
+      <string>oslashacute.BRACKET.120</string>
       <string>otilde</string>
       <string>oe</string>
       <string>q</string>
@@ -3462,6 +3524,7 @@
       <string>omicrondasiaoxia</string>
       <string>omicronvaria</string>
       <string>omicronoxia</string>
+      <string>gestroke-cy</string>
       <string>oslash.BRACKET.varAlt01</string>
       <string>oslashacute.BRACKET.varAlt01</string>
     </array>
@@ -3676,6 +3739,8 @@
       <string>udieresis-cy</string>
       <string>uhungarumlaut-cy</string>
       <string>we-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
     </array>
     <key>public.kern2.x</key>
     <array>
@@ -3686,6 +3751,7 @@
       <string>zhedescender-cy</string>
       <string>zhebreve-cy</string>
       <string>zhedieresis-cy</string>
+      <string>ya-cy</string>
     </array>
     <key>public.kern2.xi</key>
     <array>

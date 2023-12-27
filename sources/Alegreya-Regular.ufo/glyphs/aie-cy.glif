@@ -6,10 +6,4 @@
   <outline>
     <component base="ae"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

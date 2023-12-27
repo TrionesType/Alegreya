@@ -67,8 +67,6 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=i.sc</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

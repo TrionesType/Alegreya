@@ -2,9 +2,9 @@
 <glyph name="yeru-cy" format="2">
   <advance width="746"/>
   <unicode hex="044B"/>
+  <anchor x="402" y="472" name="top"/>
   <anchor x="565" y="0" name="bottom"/>
   <anchor x="687" y="10" name="ogonek"/>
-  <anchor x="402" y="472" name="top"/>
   <outline>
     <component base="softsign-cy.cond"/>
     <component base="idotless.serifless" xOffset="456"/>
@@ -24,8 +24,6 @@
       </array>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

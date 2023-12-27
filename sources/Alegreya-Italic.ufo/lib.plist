@@ -41,7 +41,7 @@
         <key>namespace</key>
         <string>glyphsLib.filters</string>
         <key>pre</key>
-        <integer>1</integer>
+        <true/>
       </dict>
     </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.Alpha.sups</key>
@@ -396,7 +396,7 @@
         <string>Endescender-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.enghe-cy.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.enge-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -508,7 +508,7 @@
         <string>Gedescender-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ghemiddlehook-cy.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.gemiddlehook-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -516,7 +516,7 @@
         <string>Ghemiddlehook-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ghestroke-cy.loclBSH.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.gestroke-cy.loclBSH.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -524,7 +524,7 @@
         <string>Ghestroke-cy.loclBSH</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ghestroke-cy.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.gestroke-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -532,7 +532,7 @@
         <string>Ghestroke-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.gheupturn-cy.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.geupturn-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -564,14 +564,6 @@
         <string>Hardsign-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ia-cy.sc</key>
-    <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>source</key>
-        <string>Ia-cy</string>
-      </dict>
-    </dict>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.ii-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
@@ -594,14 +586,6 @@
       <dict>
         <key>source</key>
         <string>iota</string>
-      </dict>
-    </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.iu-cy.sc</key>
-    <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>source</key>
-        <string>Iu-cy</string>
       </dict>
     </dict>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.izhitsa-cy.sc</key>
@@ -1004,7 +988,7 @@
         <string>upsilon</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ustrait-cy.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ustraight-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -1012,7 +996,7 @@
         <string>Ustrait-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ustraitstroke-cy.sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ustraightstroke-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -1044,12 +1028,28 @@
         <string>xi</string>
       </dict>
     </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ya-cy.sc</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Ia-cy</string>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.yat-cy.sc</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
         <key>source</key>
         <string>Yat-cy</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.yu-cy.sc</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Iu-cy</string>
       </dict>
     </dict>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.yusbig-cy.sc</key>
@@ -1129,7 +1129,27 @@
         <string>wght</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
+    <dict>
+      <key>wght</key>
+      <dict>
+        <key>105</key>
+        <integer>700</integer>
+        <key>130</key>
+        <integer>800</integer>
+        <key>160</key>
+        <integer>900</integer>
+        <key>60</key>
+        <integer>400</integer>
+        <key>80</key>
+        <integer>500</integer>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
+    <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
+    <true/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>1</integer>
@@ -1143,6 +1163,12 @@
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
     <string></string>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.paramArea</key>
+    <string>377</string>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.paramDepth</key>
+    <string>35</string>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.paramOver</key>
+    <string>7</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.smallCapHeight</key>
     <integer>497</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
@@ -1208,7 +1234,7 @@
       <string>Dcaron</string>
       <string>Dcroat</string>
       <string>Ddotbelow</string>
-      <string>Dlinebelow</string>
+      <string>Dmacronbelow</string>
       <string>Dzcaron</string>
       <string>Eth</string>
       <string>E</string>
@@ -1283,7 +1309,7 @@
       <string>Ldot</string>
       <string>Ldotbelow</string>
       <string>Lj</string>
-      <string>Llinebelow</string>
+      <string>Lmacronbelow</string>
       <string>Lslash</string>
       <string>M</string>
       <string>Mdotbelow</string>
@@ -1295,7 +1321,7 @@
       <string>Ndotaccent</string>
       <string>Ndotbelow</string>
       <string>Nj</string>
-      <string>Nlinebelow</string>
+      <string>Nmacronbelow</string>
       <string>Ntilde</string>
       <string>Eng</string>
       <string>O</string>
@@ -1344,7 +1370,7 @@
       <string>Rdblgrave</string>
       <string>Rdotbelow</string>
       <string>Rinvertedbreve</string>
-      <string>Rlinebelow</string>
+      <string>Rmacronbelow</string>
       <string>S</string>
       <string>Sacute</string>
       <string>Sacutedotaccent</string>
@@ -1363,7 +1389,7 @@
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
       <string>Tdotbelow</string>
-      <string>Tlinebelow</string>
+      <string>Tmacronbelow</string>
       <string>U</string>
       <string>Uacute</string>
       <string>Ubreve</string>
@@ -1464,7 +1490,7 @@
       <string>dcaron</string>
       <string>dcroat</string>
       <string>ddotbelow</string>
-      <string>dlinebelow</string>
+      <string>dmacronbelow</string>
       <string>dzcaron</string>
       <string>eth</string>
       <string>e</string>
@@ -1541,7 +1567,7 @@
       <string>ldot</string>
       <string>ldotbelow</string>
       <string>lj</string>
-      <string>llinebelow</string>
+      <string>lmacronbelow</string>
       <string>lslash</string>
       <string>m</string>
       <string>mdotbelow</string>
@@ -1552,7 +1578,7 @@
       <string>ndotaccent</string>
       <string>ndotbelow</string>
       <string>nj</string>
-      <string>nlinebelow</string>
+      <string>nmacronbelow</string>
       <string>ntilde</string>
       <string>eng</string>
       <string>o</string>
@@ -1601,7 +1627,7 @@
       <string>rdblgrave</string>
       <string>rdotbelow</string>
       <string>rinvertedbreve</string>
-      <string>rlinebelow</string>
+      <string>rmacronbelow</string>
       <string>s</string>
       <string>sacute</string>
       <string>sacutedotaccent</string>
@@ -1622,7 +1648,7 @@
       <string>tcommaaccent</string>
       <string>tdieresis</string>
       <string>tdotbelow</string>
-      <string>tlinebelow</string>
+      <string>tmacronbelow</string>
       <string>u</string>
       <string>uacute</string>
       <string>ubreve</string>
@@ -1733,7 +1759,7 @@
       <string>dcaron.sc</string>
       <string>dcroat.sc</string>
       <string>ddotbelow.sc</string>
-      <string>dlinebelow.sc</string>
+      <string>dmacronbelow.sc</string>
       <string>dzcaron.sc</string>
       <string>eth.sc</string>
       <string>e.sc</string>
@@ -1809,7 +1835,7 @@
       <string>ldot.sc</string>
       <string>ldotbelow.sc</string>
       <string>lj.sc</string>
-      <string>llinebelow.sc</string>
+      <string>lmacronbelow.sc</string>
       <string>lslash.sc</string>
       <string>m.sc</string>
       <string>mdotbelow.sc</string>
@@ -1820,7 +1846,7 @@
       <string>ndotaccent.sc</string>
       <string>ndotbelow.sc</string>
       <string>nj.sc</string>
-      <string>nlinebelow.sc</string>
+      <string>nmacronbelow.sc</string>
       <string>ntilde.sc</string>
       <string>eng.sc</string>
       <string>o.sc</string>
@@ -1869,7 +1895,7 @@
       <string>rdblgrave.sc</string>
       <string>rdotbelow.sc</string>
       <string>rinvertedbreve.sc</string>
-      <string>rlinebelow.sc</string>
+      <string>rmacronbelow.sc</string>
       <string>s.sc</string>
       <string>sacute.sc</string>
       <string>sacutedotaccent.sc</string>
@@ -1889,7 +1915,7 @@
       <string>tcommaaccent.sc</string>
       <string>tdieresis.sc</string>
       <string>tdotbelow.sc</string>
-      <string>tlinebelow.sc</string>
+      <string>tmacronbelow.sc</string>
       <string>u.sc</string>
       <string>uacute.sc</string>
       <string>ubreve.sc</string>
@@ -1984,10 +2010,10 @@
       <string>Ve-cy</string>
       <string>Ge-cy</string>
       <string>Gje-cy</string>
-      <string>Gheupturn-cy</string>
+      <string>Geupturn-cy</string>
       <string>Gedescender-cy</string>
-      <string>Ghestroke-cy</string>
-      <string>Ghemiddlehook-cy</string>
+      <string>Gestroke-cy</string>
+      <string>Gemiddlehook-cy</string>
       <string>De-cy</string>
       <string>Ie-cy</string>
       <string>Iegrave-cy</string>
@@ -2028,8 +2054,8 @@
       <string>Yi-cy</string>
       <string>Je-cy</string>
       <string>Tshe-cy</string>
-      <string>Iu-cy</string>
-      <string>Ia-cy</string>
+      <string>Yu-cy</string>
+      <string>Ya-cy</string>
       <string>Dje-cy</string>
       <string>Yat-cy</string>
       <string>Yusbig-cy</string>
@@ -2041,11 +2067,11 @@
       <string>Kaverticalstroke-cy</string>
       <string>Kabashkir-cy</string>
       <string>Endescender-cy</string>
-      <string>Enghe-cy</string>
+      <string>EnGe-cy</string>
       <string>Pedescender-cy</string>
       <string>Esdescender-cy</string>
-      <string>Ustrait-cy</string>
-      <string>Ustraitstroke-cy</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
       <string>Hadescender-cy</string>
       <string>Chedescender-cy</string>
       <string>Cheverticalstroke-cy</string>
@@ -2072,7 +2098,7 @@
       <string>Yerudieresis-cy</string>
       <string>Qa-cy</string>
       <string>We-cy</string>
-      <string>Ghestroke-cy.loclBSH</string>
+      <string>Gestroke-cy.loclBSH</string>
       <string>Zedescender-cy.loclBSH</string>
       <string>Esdescender-cy.loclCHU</string>
       <string>Softsign-cy.cond</string>
@@ -2081,10 +2107,10 @@
       <string>ve-cy</string>
       <string>ge-cy</string>
       <string>gje-cy</string>
-      <string>gheupturn-cy</string>
+      <string>geupturn-cy</string>
       <string>gedescender-cy</string>
-      <string>ghestroke-cy</string>
-      <string>ghemiddlehook-cy</string>
+      <string>gestroke-cy</string>
+      <string>gemiddlehook-cy</string>
       <string>de-cy</string>
       <string>ie-cy</string>
       <string>iegrave-cy</string>
@@ -2125,8 +2151,8 @@
       <string>yi-cy</string>
       <string>je-cy</string>
       <string>tshe-cy</string>
-      <string>iu-cy</string>
-      <string>ia-cy</string>
+      <string>yu-cy</string>
+      <string>ya-cy</string>
       <string>dje-cy</string>
       <string>yat-cy</string>
       <string>yusbig-cy</string>
@@ -2138,11 +2164,11 @@
       <string>kaverticalstroke-cy</string>
       <string>kabashkir-cy</string>
       <string>endescender-cy</string>
-      <string>enghe-cy</string>
+      <string>enge-cy</string>
       <string>pedescender-cy</string>
       <string>esdescender-cy</string>
-      <string>ustrait-cy</string>
-      <string>ustraitstroke-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
       <string>hadescender-cy</string>
       <string>chedescender-cy</string>
       <string>cheverticalstroke-cy</string>
@@ -2171,7 +2197,7 @@
       <string>we-cy</string>
       <string>softsign-cy.cond</string>
       <string>entail-cy.001</string>
-      <string>ghestroke-cy.loclBSH</string>
+      <string>gestroke-cy.loclBSH</string>
       <string>zedescender-cy.loclBSH</string>
       <string>esdescender-cy.loclCHU</string>
       <string>gje-cy.loclMKD</string>
@@ -2185,10 +2211,10 @@
       <string>ve-cy.sc</string>
       <string>ge-cy.sc</string>
       <string>gje-cy.sc</string>
-      <string>gheupturn-cy.sc</string>
+      <string>geupturn-cy.sc</string>
       <string>gedescender-cy.sc</string>
-      <string>ghestroke-cy.sc</string>
-      <string>ghemiddlehook-cy.sc</string>
+      <string>gestroke-cy.sc</string>
+      <string>gemiddlehook-cy.sc</string>
       <string>de-cy.sc</string>
       <string>ie-cy.sc</string>
       <string>iegrave-cy.sc</string>
@@ -2229,8 +2255,8 @@
       <string>yi-cy.sc</string>
       <string>je-cy.sc</string>
       <string>tshe-cy.sc</string>
-      <string>iu-cy.sc</string>
-      <string>ia-cy.sc</string>
+      <string>yu-cy.sc</string>
+      <string>ya-cy.sc</string>
       <string>dje-cy.sc</string>
       <string>yat-cy.sc</string>
       <string>yusbig-cy.sc</string>
@@ -2242,11 +2268,11 @@
       <string>kaverticalstroke-cy.sc</string>
       <string>kabashkir-cy.sc</string>
       <string>endescender-cy.sc</string>
-      <string>enghe-cy.sc</string>
+      <string>enge-cy.sc</string>
       <string>pedescender-cy.sc</string>
       <string>esdescender-cy.sc</string>
-      <string>ustrait-cy.sc</string>
-      <string>ustraitstroke-cy.sc</string>
+      <string>ustraight-cy.sc</string>
+      <string>ustraightstroke-cy.sc</string>
       <string>hadescender-cy.sc</string>
       <string>chedescender-cy.sc</string>
       <string>cheverticalstroke-cy.sc</string>
@@ -2273,7 +2299,7 @@
       <string>yerudieresis-cy.sc</string>
       <string>qa-cy.sc</string>
       <string>we-cy.sc</string>
-      <string>ghestroke-cy.loclBSH.sc</string>
+      <string>gestroke-cy.loclBSH.sc</string>
       <string>zedescender-cy.loclBSH.sc</string>
       <string>esdescender-cy.loclCHU.sc</string>
       <string>softsign-cy.cond.sc</string>
@@ -2881,16 +2907,16 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
-      <string>zero.lf</string>
-      <string>one.lf</string>
-      <string>two.lf</string>
-      <string>three.lf</string>
-      <string>four.lf</string>
-      <string>five.lf</string>
-      <string>six.lf</string>
-      <string>seven.lf</string>
-      <string>eight.lf</string>
-      <string>nine.lf</string>
+      <string>zero.osf</string>
+      <string>one.osf</string>
+      <string>two.osf</string>
+      <string>three.osf</string>
+      <string>four.osf</string>
+      <string>five.osf</string>
+      <string>six.osf</string>
+      <string>seven.osf</string>
+      <string>eight.osf</string>
+      <string>nine.osf</string>
       <string>zero.tf</string>
       <string>one.tf</string>
       <string>two.tf</string>
@@ -2999,7 +3025,7 @@
       <string>hairspace</string>
       <string>zerowidthspace</string>
       <string>CR</string>
-      <string>uni0000</string>
+      <string>NULL</string>
       <string>.notdef</string>
       <string>anoteleia</string>
       <string>questiongreek</string>
@@ -3461,7 +3487,7 @@
       <string>uni0394.sups</string>
       <key>Dje-cy</key>
       <string>uni0402</string>
-      <key>Dlinebelow</key>
+      <key>Dmacronbelow</key>
       <string>uni1E0E</string>
       <key>Dzcaron</key>
       <string>uni01C5</string>
@@ -3503,10 +3529,10 @@
       <string>uni1E14</string>
       <key>En-cy</key>
       <string>uni041D</string>
+      <key>EnGe-cy</key>
+      <string>uni04A4</string>
       <key>Endescender-cy</key>
       <string>uni04A2</string>
-      <key>Enghe-cy</key>
-      <string>uni04A4</string>
       <key>Entail-cy</key>
       <string>uni04C9</string>
       <key>Epsilondasia</key>
@@ -3623,17 +3649,17 @@
       <string>uni0413</string>
       <key>Gedescender-cy</key>
       <string>uni04F6</string>
+      <key>Gemiddlehook-cy</key>
+      <string>uni0494</string>
       <key>Germandbls</key>
       <string>uni1E9E</string>
       <key>Germandbls.alt</key>
       <string>uni1E9E.alt</string>
-      <key>Ghemiddlehook-cy</key>
-      <string>uni0494</string>
-      <key>Ghestroke-cy</key>
+      <key>Gestroke-cy</key>
       <string>uni0492</string>
-      <key>Ghestroke-cy.loclBSH</key>
+      <key>Gestroke-cy.loclBSH</key>
       <string>uni0492.loclBSH</string>
-      <key>Gheupturn-cy</key>
+      <key>Geupturn-cy</key>
       <string>uni0490</string>
       <key>Gje-cy</key>
       <string>uni0403</string>
@@ -3655,8 +3681,6 @@
       <string>uni1E24</string>
       <key>I-cy</key>
       <string>uni0406</string>
-      <key>Ia-cy</key>
-      <string>uni042F</string>
       <key>Icaron</key>
       <string>uni01CF</string>
       <key>Idblgrave</key>
@@ -3711,8 +3735,6 @@
       <string>uni1FDA</string>
       <key>Iotavrachy</key>
       <string>uni1FD8</string>
-      <key>Iu-cy</key>
-      <string>uni042E</string>
       <key>Izhitsa-cy</key>
       <string>uni0474</string>
       <key>Je-cy</key>
@@ -3743,7 +3765,7 @@
       <string>uni01C8</string>
       <key>Lje-cy</key>
       <string>uni0409</string>
-      <key>Llinebelow</key>
+      <key>Lmacronbelow</key>
       <string>uni1E3A</string>
       <key>Mdotbelow</key>
       <string>uni1E42</string>
@@ -3759,7 +3781,7 @@
       <string>uni01CB</string>
       <key>Nje-cy</key>
       <string>uni040A</string>
-      <key>Nlinebelow</key>
+      <key>Nmacronbelow</key>
       <string>uni1E48</string>
       <key>O-cy</key>
       <string>uni041E</string>
@@ -3927,7 +3949,7 @@
       <string>uni1FEC</string>
       <key>Rinvertedbreve</key>
       <string>uni0212</string>
-      <key>Rlinebelow</key>
+      <key>Rmacronbelow</key>
       <string>uni1E5E</string>
       <key>Sacutedotaccent</key>
       <string>uni1E64</string>
@@ -3965,7 +3987,7 @@
       <string>uni1E6C</string>
       <key>Te-cy</key>
       <string>uni0422</string>
-      <key>Tlinebelow</key>
+      <key>Tmacronbelow</key>
       <string>uni1E6E</string>
       <key>Tse-cy</key>
       <string>uni0426</string>
@@ -4027,9 +4049,9 @@
       <string>uni1FE8</string>
       <key>Ushort-cy</key>
       <string>uni040E</string>
-      <key>Ustrait-cy</key>
+      <key>Ustraight-cy</key>
       <string>Ustraitcy</string>
-      <key>Ustraitstroke-cy</key>
+      <key>Ustraightstroke-cy</key>
       <string>Ustraitstrokecy</string>
       <key>Utildeacute</key>
       <string>uni1E78</string>
@@ -4037,6 +4059,8 @@
       <string>uni0412</string>
       <key>We-cy</key>
       <string>uni051C</string>
+      <key>Ya-cy</key>
+      <string>uni042F</string>
       <key>Yat-cy</key>
       <string>uni0462</string>
       <key>Ydotaccent</key>
@@ -4055,6 +4079,8 @@
       <string>uni0232</string>
       <key>Ytilde</key>
       <string>uni1EF8</string>
+      <key>Yu-cy</key>
+      <string>uni042E</string>
       <key>Yusbig-cy</key>
       <string>uni046A</string>
       <key>Zdotbelow</key>
@@ -4443,9 +4469,9 @@
       <string>uni0452</string>
       <key>dje-cy.sc</key>
       <string>uni0452.sc</string>
-      <key>dlinebelow</key>
+      <key>dmacronbelow</key>
       <string>uni1E0F</string>
-      <key>dlinebelow.sc</key>
+      <key>dmacronbelow.sc</key>
       <string>uni1E0F.sc</string>
       <key>dotaccentcomb</key>
       <string>uni0307</string>
@@ -4549,9 +4575,9 @@
       <string>uni04A3</string>
       <key>endescender-cy.sc</key>
       <string>uni04A3.sc</string>
-      <key>enghe-cy</key>
+      <key>enge-cy</key>
       <string>uni04A5</string>
-      <key>enghe-cy.sc</key>
+      <key>enge-cy.sc</key>
       <string>uni04A5.sc</string>
       <key>entail-cy</key>
       <string>uni04CA</string>
@@ -4773,21 +4799,21 @@
       <string>uni04F7</string>
       <key>gedescender-cy.sc</key>
       <string>uni04F7.sc</string>
-      <key>ghemiddlehook-cy</key>
+      <key>gemiddlehook-cy</key>
       <string>uni0495</string>
-      <key>ghemiddlehook-cy.sc</key>
+      <key>gemiddlehook-cy.sc</key>
       <string>uni0495.sc</string>
-      <key>ghestroke-cy</key>
+      <key>gestroke-cy</key>
       <string>uni0493</string>
-      <key>ghestroke-cy.loclBSH</key>
+      <key>gestroke-cy.loclBSH</key>
       <string>uni0493.loclBSH</string>
-      <key>ghestroke-cy.loclBSH.sc</key>
+      <key>gestroke-cy.loclBSH.sc</key>
       <string>uni0493.loclBSH.sc</string>
-      <key>ghestroke-cy.sc</key>
+      <key>gestroke-cy.sc</key>
       <string>uni0493.sc</string>
-      <key>gheupturn-cy</key>
+      <key>geupturn-cy</key>
       <string>uni0491</string>
-      <key>gheupturn-cy.sc</key>
+      <key>geupturn-cy.sc</key>
       <string>uni0491.sc</string>
       <key>gje-cy</key>
       <string>uni0453</string>
@@ -4859,10 +4885,6 @@
       <string>uni0456</string>
       <key>i-cy.sc</key>
       <string>uni0456.sc</string>
-      <key>ia-cy</key>
-      <string>uni044F</string>
-      <key>ia-cy.sc</key>
-      <string>uni044F.sc</string>
       <key>icaron</key>
       <string>uni01D0</string>
       <key>icaron.sc</key>
@@ -5001,10 +5023,6 @@
       <string>uni1FD0</string>
       <key>iotavrachy.sc</key>
       <string>uni1FD0.sc</string>
-      <key>iu-cy</key>
-      <string>uni044E</string>
-      <key>iu-cy.sc</key>
-      <string>uni044E.sc</string>
       <key>izhitsa-cy</key>
       <string>uni0475</string>
       <key>izhitsa-cy.sc</key>
@@ -5089,9 +5107,9 @@
       <string>uni0459</string>
       <key>lje-cy.sc</key>
       <string>uni0459.sc</string>
-      <key>llinebelow</key>
+      <key>lmacronbelow</key>
       <string>uni1E3B</string>
-      <key>llinebelow.sc</key>
+      <key>lmacronbelow.sc</key>
       <string>uni1E3B.sc</string>
       <key>lmod</key>
       <string>uni02E1</string>
@@ -5159,9 +5177,9 @@
       <string>uni045A</string>
       <key>nje-cy.sc</key>
       <string>uni045A.sc</string>
-      <key>nlinebelow</key>
+      <key>nmacronbelow</key>
       <string>uni1E49</string>
-      <key>nlinebelow.sc</key>
+      <key>nmacronbelow.sc</key>
       <string>uni1E49.sc</string>
       <key>nmod</key>
       <string>uni207F</string>
@@ -5533,9 +5551,9 @@
       <string>uni0213</string>
       <key>rinvertedbreve.sc</key>
       <string>uni0213.sc</string>
-      <key>rlinebelow</key>
+      <key>rmacronbelow</key>
       <string>uni1E5F</string>
-      <key>rlinebelow.sc</key>
+      <key>rmacronbelow.sc</key>
       <string>uni1E5F.sc</string>
       <key>ruble</key>
       <string>uni20BD</string>
@@ -5663,9 +5681,9 @@
       <string>uni03030304</string>
       <key>tildecomb_macroncomb.case</key>
       <string>uni03030304.case</string>
-      <key>tlinebelow</key>
+      <key>tmacronbelow</key>
       <string>uni1E6F</string>
-      <key>tlinebelow.sc</key>
+      <key>tmacronbelow.sc</key>
       <string>uni1E6F.sc</string>
       <key>tse-cy</key>
       <string>uni0446</string>
@@ -5835,13 +5853,13 @@
       <string>uni045E</string>
       <key>ushort-cy.sc</key>
       <string>uni045E.sc</string>
-      <key>ustrait-cy</key>
+      <key>ustraight-cy</key>
       <string>ustraitcy</string>
-      <key>ustrait-cy.sc</key>
+      <key>ustraight-cy.sc</key>
       <string>ustraitcy.sc</string>
-      <key>ustraitstroke-cy</key>
+      <key>ustraightstroke-cy</key>
       <string>ustraitstrokecy</string>
-      <key>ustraitstroke-cy.sc</key>
+      <key>ustraightstroke-cy.sc</key>
       <string>ustraitstrokecy.sc</string>
       <key>utildeacute</key>
       <string>uni1E79</string>
@@ -5877,6 +5895,10 @@
       <string>uni20A9.BRACKET.varAlt01</string>
       <key>xmod</key>
       <string>uni02E3</string>
+      <key>ya-cy</key>
+      <string>uni044F</string>
+      <key>ya-cy.sc</key>
+      <string>uni044F.sc</string>
       <key>yat-cy</key>
       <string>uni0463</string>
       <key>yat-cy.sc</key>
@@ -5919,6 +5941,10 @@
       <string>uni1EF9</string>
       <key>ytilde.sc</key>
       <string>uni1EF9.sc</string>
+      <key>yu-cy</key>
+      <string>uni044E</string>
+      <key>yu-cy.sc</key>
+      <string>uni044E.sc</string>
       <key>yusbig-cy</key>
       <string>uni046B</string>
       <key>yusbig-cy.sc</key>

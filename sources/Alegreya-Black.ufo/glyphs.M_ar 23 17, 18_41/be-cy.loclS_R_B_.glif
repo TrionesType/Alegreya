@@ -53,10 +53,4 @@
       <point x="195" y="469"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

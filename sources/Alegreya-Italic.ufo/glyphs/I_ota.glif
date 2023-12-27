@@ -2,10 +2,10 @@
 <glyph name="Iota" format="2">
   <advance width="346"/>
   <unicode hex="0399"/>
-  <anchor x="145" y="0" name="bottom"/>
-  <anchor x="242" y="33" name="ogonek"/>
   <anchor x="223" y="636" name="top"/>
   <anchor x="5" y="637" name="topleft"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="242" y="33" name="ogonek"/>
   <outline>
     <component base="I"/>
   </outline>
@@ -13,8 +13,6 @@
     <dict>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

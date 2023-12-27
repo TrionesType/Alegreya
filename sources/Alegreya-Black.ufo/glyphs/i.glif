@@ -9,10 +9,4 @@
     <component base="idotless"/>
     <component base="dotaccentcomb" xOffset="-44"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

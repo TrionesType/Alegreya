@@ -9,10 +9,4 @@
     <component base="pe-cy"/>
     <component base="descender-cy" xOffset="304" yOffset="-32"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

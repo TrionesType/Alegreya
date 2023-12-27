@@ -44,10 +44,10 @@
     <string>E_-cy.glif</string>
     <key>El-cy</key>
     <string>E_l-cy.glif</string>
+    <key>EnGe-cy</key>
+    <string>E_nG_e-cy.glif</string>
     <key>Eng</key>
     <string>E_ng.glif</string>
-    <key>Enghe-cy</key>
-    <string>E_nghe-cy.glif</string>
     <key>Entail-cy</key>
     <string>E_ntail-cy.glif</string>
     <key>Ereversed-cy</key>
@@ -68,14 +68,14 @@
     <string>G_e-cy.glif</string>
     <key>Gedescender-cy</key>
     <string>G_edescender-cy.glif</string>
+    <key>Gemiddlehook-cy</key>
+    <string>G_emiddlehook-cy.glif</string>
     <key>Germandbls</key>
     <string>G_ermandbls.glif</string>
-    <key>Ghemiddlehook-cy</key>
-    <string>G_hemiddlehook-cy.glif</string>
-    <key>Ghestroke-cy</key>
-    <string>G_hestroke-cy.glif</string>
-    <key>Gheupturn-cy</key>
-    <string>G_heupturn-cy.glif</string>
+    <key>Gestroke-cy</key>
+    <string>G_estroke-cy.glif</string>
+    <key>Geupturn-cy</key>
+    <string>G_eupturn-cy.glif</string>
     <key>Gstroke</key>
     <string>G_stroke.glif</string>
     <key>H</key>
@@ -88,8 +88,6 @@
     <string>I_.glif</string>
     <key>I.ss01</key>
     <string>I_.ss01.glif</string>
-    <key>Ia-cy</key>
-    <string>I_a-cy.glif</string>
     <key>Ii-cy</key>
     <string>I_i-cy.glif</string>
     <key>Izhitsa-cy</key>
@@ -198,8 +196,8 @@
     <string>U_psilon.glif</string>
     <key>Upsilon.sups</key>
     <string>U_psilon.sups.glif</string>
-    <key>Ustraitstroke-cy</key>
-    <string>U_straitstroke-cy.glif</string>
+    <key>Ustraightstroke-cy</key>
+    <string>U_straightstroke-cy.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>V.ss01</key>
@@ -216,6 +214,8 @@
     <string>X_i.sups.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Ya-cy</key>
+    <string>Y_a-cy.glif</string>
     <key>Yat-cy</key>
     <string>Y_at-cy.glif</string>
     <key>Yusbig-cy</key>
@@ -454,10 +454,10 @@
     <string>e.sc.glif</string>
     <key>ef-cy</key>
     <string>ef-cy.glif</string>
+    <key>eight</key>
+    <string>eight.glif</string>
     <key>eight.dnom</key>
     <string>eight.dnom.glif</string>
-    <key>eight.lf</key>
-    <string>eight.lf.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
     <key>eight.tf</key>
@@ -480,8 +480,8 @@
     <string>eng.glif</string>
     <key>eng.sc</key>
     <string>eng.sc.glif</string>
-    <key>enghe-cy</key>
-    <string>enghe-cy.glif</string>
+    <key>enge-cy</key>
+    <string>enge-cy.glif</string>
     <key>entail-cy</key>
     <string>entail-cy.glif</string>
     <key>entail-cy.001</key>
@@ -528,10 +528,10 @@
     <string>f_j.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
+    <key>five</key>
+    <string>five.glif</string>
     <key>five.dnom</key>
     <string>five.dnom.glif</string>
-    <key>five.lf</key>
-    <string>five.lf.glif</string>
     <key>five.numr</key>
     <string>five.numr.glif</string>
     <key>five.tf</key>
@@ -544,10 +544,10 @@
     <string>fl.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
     <key>four.dnom</key>
     <string>four.dnom.glif</string>
-    <key>four.lf</key>
-    <string>four.lf.glif</string>
     <key>four.numr</key>
     <string>four.numr.glif</string>
     <key>four.tf</key>
@@ -576,16 +576,16 @@
     <string>gamma_gamma.glif</string>
     <key>ge-cy</key>
     <string>ge-cy.glif</string>
+    <key>gemiddlehook-cy</key>
+    <string>gemiddlehook-cy.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>germandbls.sc</key>
     <string>germandbls.sc.glif</string>
-    <key>ghemiddlehook-cy</key>
-    <string>ghemiddlehook-cy.glif</string>
-    <key>ghestroke-cy.loclBSH</key>
-    <string>ghestroke-cy.loclB_S_H_.glif</string>
-    <key>gheupturn-cy</key>
-    <string>gheupturn-cy.glif</string>
+    <key>gestroke-cy.loclBSH</key>
+    <string>gestroke-cy.loclB_S_H_.glif</string>
+    <key>geupturn-cy</key>
+    <string>geupturn-cy.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
     <key>gravecomb.case</key>
@@ -632,8 +632,6 @@
     <string>i.ss01.glif</string>
     <key>i.sups</key>
     <string>i.sups.glif</string>
-    <key>ia-cy</key>
-    <string>ia-cy.glif</string>
     <key>idotaccent</key>
     <string>idotaccent.glif</string>
     <key>idotless</key>
@@ -764,10 +762,10 @@
     <string>n.sc.glif</string>
     <key>n.sups</key>
     <string>n.sups.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
     <key>nine.dnom</key>
     <string>nine.dnom.glif</string>
-    <key>nine.lf</key>
-    <string>nine.lf.glif</string>
     <key>nine.numr</key>
     <string>nine.numr.glif</string>
     <key>nine.tf</key>
@@ -816,10 +814,10 @@
     <string>omicron.glif</string>
     <key>omicron.sups</key>
     <string>omicron.sups.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
     <key>one.dnom</key>
     <string>one.dnom.glif</string>
-    <key>one.lf</key>
-    <string>one.lf.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
     <key>one.tf</key>
@@ -968,10 +966,10 @@
     <string>schwa.sc.glif</string>
     <key>section</key>
     <string>section.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
     <key>seven.dnom</key>
     <string>seven.dnom.glif</string>
-    <key>seven.lf</key>
-    <string>seven.lf.glif</string>
     <key>seven.numr</key>
     <string>seven.numr.glif</string>
     <key>seven.tf</key>
@@ -990,10 +988,10 @@
     <string>sigmafinal.glif</string>
     <key>sigmafinal.sups</key>
     <string>sigmafinal.sups.glif</string>
+    <key>six</key>
+    <string>six.glif</string>
     <key>six.dnom</key>
     <string>six.dnom.glif</string>
-    <key>six.lf</key>
-    <string>six.lf.glif</string>
     <key>six.numr</key>
     <string>six.numr.glif</string>
     <key>six.tf</key>
@@ -1040,10 +1038,10 @@
     <string>theta.sups.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
     <key>three.dnom</key>
     <string>three.dnom.glif</string>
-    <key>three.lf</key>
-    <string>three.lf.glif</string>
     <key>three.numr</key>
     <string>three.numr.glif</string>
     <key>three.tf</key>
@@ -1066,10 +1064,10 @@
     <string>two.glif</string>
     <key>two.dnom</key>
     <string>two.dnom.glif</string>
-    <key>two.lf</key>
-    <string>two.lf.glif</string>
     <key>two.numr</key>
     <string>two.numr.glif</string>
+    <key>two.osf</key>
+    <string>two.osf.glif</string>
     <key>two.tf</key>
     <string>two.tf.glif</string>
     <key>two.tosf</key>
@@ -1102,8 +1100,8 @@
     <string>upsilon.sc.glif</string>
     <key>upsilon.sups</key>
     <string>upsilon.sups.glif</string>
-    <key>ustrait-cy</key>
-    <string>ustrait-cy.glif</string>
+    <key>ustraight-cy</key>
+    <string>ustraight-cy.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>v.sc</key>
@@ -1140,6 +1138,8 @@
     <string>y.sc.glif</string>
     <key>y.sups</key>
     <string>y.sups.glif</string>
+    <key>ya-cy</key>
+    <string>ya-cy.glif</string>
     <key>yat-cy</key>
     <string>yat-cy.glif</string>
     <key>yen</key>
@@ -1158,10 +1158,10 @@
     <string>ze-cy.glif</string>
     <key>zedescender-cy.sc</key>
     <string>zedescender-cy.sc.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
     <key>zero.dnom</key>
     <string>zero.dnom.glif</string>
-    <key>zero.lf</key>
-    <string>zero.lf.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
     <key>zero.tf</key>

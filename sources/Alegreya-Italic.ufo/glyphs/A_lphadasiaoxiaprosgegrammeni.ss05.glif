@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphadasiaoxiaprosgegrammeni.ss05" format="2">
   <advance width="994"/>
-  <anchor x="465" y="0" name="bottom"/>
-  <anchor x="717" y="40" name="ogonek"/>
+  <anchor x="587" y="0" name="bottom"/>
+  <anchor x="839" y="40" name="ogonek"/>
   <anchor x="286" y="671" name="top"/>
-  <anchor x="304" y="637" name="topleft"/>
+  <anchor x="426" y="637" name="topleft"/>
   <outline>
     <component base="Alphaprosgegrammeni.ss05" xOffset="215"/>
     <component base="dasiaoxia.case" xOffset="5" yOffset="-36"/>
@@ -28,8 +28,6 @@
       <string>=Alphaprosgegrammeni</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

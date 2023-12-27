@@ -7,10 +7,4 @@
     <component base="pe-cy"/>
     <component base="descender-cy" xOffset="365"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

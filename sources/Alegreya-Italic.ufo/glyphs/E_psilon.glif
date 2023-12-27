@@ -2,10 +2,10 @@
 <glyph name="Epsilon" format="2">
   <advance width="567"/>
   <unicode hex="0395"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="434" y="38" name="ogonek"/>
   <anchor x="296" y="637" name="top"/>
   <anchor x="5" y="637" name="topleft"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="434" y="38" name="ogonek"/>
   <outline>
     <component base="E"/>
   </outline>
@@ -13,8 +13,6 @@
     <dict>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

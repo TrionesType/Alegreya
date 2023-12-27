@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
-      <map input="400" output="60"/>
-      <map input="500" output="80"/>
-      <map input="700" output="105"/>
-      <map input="800" output="130"/>
-      <map input="900" output="160"/>
+    <axis tag="wght" name="Weight" minimum="60" maximum="160" default="60">
+      <map input="60" output="400"/>
+      <map input="80" output="500"/>
+      <map input="105" output="700"/>
+      <map input="130" output="800"/>
+      <map input="160" output="900"/>
     </axis>
   </axes>
   <rules>
-    <rule name="BRACKET.Weight_120_160">
+    <rule name="BRACKET.Weight_120_900">
       <conditionset>
-        <condition name="Weight" minimum="120" maximum="160"/>
+        <condition name="Weight" minimum="120" maximum="900"/>
       </conditionset>
       <sub name="oslashacute.sc" with="oslashacute.sc.BRACKET.varAlt01"/>
       <sub name="oslash.sc" with="oslash.sc.BRACKET.varAlt01"/>
@@ -31,9 +31,9 @@
       <sub name="cent" with="cent.BRACKET.varAlt01"/>
       <sub name="cedi" with="cedi.BRACKET.varAlt01"/>
     </rule>
-    <rule name="BRACKET.Weight_100_160">
+    <rule name="BRACKET.Weight_100_900">
       <conditionset>
-        <condition name="Weight" minimum="100" maximum="160"/>
+        <condition name="Weight" minimum="100" maximum="900"/>
       </conditionset>
       <sub name="guarani" with="guarani.BRACKET.varAlt01"/>
       <sub name="colonsign" with="colonsign.BRACKET.varAlt01"/>

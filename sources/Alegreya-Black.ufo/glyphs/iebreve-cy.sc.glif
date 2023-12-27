@@ -9,10 +9,4 @@
     <component base="ie-cy.sc"/>
     <component base="brevecomb-cy" xOffset="67" yOffset="31"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

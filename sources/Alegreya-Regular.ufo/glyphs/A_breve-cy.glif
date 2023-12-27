@@ -9,10 +9,4 @@
     <component base="A-cy"/>
     <component base="brevecomb-cy.case" xOffset="91" yOffset="184"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

@@ -7,10 +7,4 @@
     <component base="ezh.sc"/>
     <component base="caroncomb" xOffset="62" yOffset="31"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@
     <component base="k"/>
     <component base="caroncomb.case" xOffset="-80" yOffset="40"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@
     <component base="Ze-cy"/>
     <component base="dieresiscomb.case" xOffset="71"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

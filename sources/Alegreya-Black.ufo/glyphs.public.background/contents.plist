@@ -470,8 +470,8 @@
     <string>n.sc.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
-    <key>nine</key>
-    <string>nine.glif</string>
+    <key>nine.osf</key>
+    <string>nine.osf.glif</string>
     <key>nje-cy</key>
     <string>nje-cy.glif</string>
     <key>northEastArrow</key>
@@ -584,8 +584,8 @@
     <string>sigmafinal.glif</string>
     <key>sigmafinal.sups</key>
     <string>sigmafinal.sups.glif</string>
-    <key>six</key>
-    <string>six.glif</string>
+    <key>six.osf</key>
+    <string>six.osf.glif</string>
     <key>softsign-cy</key>
     <string>softsign-cy.glif</string>
     <key>softsign-cy.cond</key>

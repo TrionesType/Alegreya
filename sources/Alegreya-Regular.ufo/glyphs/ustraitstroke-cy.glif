@@ -7,10 +7,4 @@
     <component base="ustrait-cy"/>
     <component base="strokeshortcomb" xOffset="-16" yOffset="-239"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

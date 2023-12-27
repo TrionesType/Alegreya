@@ -9,10 +9,4 @@
     <component base="Ge-cy"/>
     <component base="acutecomb.case" xOffset="64"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

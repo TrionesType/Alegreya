@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="563"/>
+  <advance width="615"/>
   <unicode hex="010F"/>
   <anchor x="204" y="0" name="bottom"/>
   <anchor x="232" y="226" name="center"/>
@@ -16,8 +16,6 @@
       <string>=+100</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

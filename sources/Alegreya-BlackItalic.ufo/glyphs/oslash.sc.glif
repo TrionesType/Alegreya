@@ -2,9 +2,9 @@
 <glyph name="oslash.sc" format="2">
   <advance width="536"/>
   <anchor x="237" y="0" name="bottom"/>
+  <anchor x="259" y="513" name="top"/>
   <anchor x="268" y="252" name="center"/>
   <anchor x="370" y="39" name="ogonek"/>
-  <anchor x="259" y="513" name="top"/>
   <anchor x="51" y="503" name="topleft"/>
   <anchor x="547" y="503" name="topright"/>
   <outline>
@@ -36,8 +36,6 @@
       <string>CPPP</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

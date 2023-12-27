@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lcaron" format="2">
-  <advance width="350"/>
+  <advance width="402"/>
   <unicode hex="013E"/>
   <anchor x="97" y="0" name="bottom"/>
   <anchor x="125" y="226" name="center"/>
@@ -16,8 +16,6 @@
       <string>=+100</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

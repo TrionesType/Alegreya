@@ -9,10 +9,4 @@
     <component base="ie-cy"/>
     <component base="gravecomb" xOffset="60"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

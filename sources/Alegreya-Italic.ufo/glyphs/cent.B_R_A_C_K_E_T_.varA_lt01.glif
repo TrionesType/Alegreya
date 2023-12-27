@@ -56,8 +56,6 @@
       <string>[100]</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

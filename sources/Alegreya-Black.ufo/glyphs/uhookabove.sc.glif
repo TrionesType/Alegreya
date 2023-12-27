@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhookabove.sc" format="2">
   <advance width="528"/>
+  <anchor x="334" y="646" name="top"/>
   <anchor x="264" y="0" name="bottom"/>
   <anchor x="475" y="10" name="ogonek"/>
-  <anchor x="334" y="646" name="top"/>
   <anchor x="508" y="503" name="topright"/>
   <outline>
     <component base="hookabovecomb" xOffset="94" yOffset="1"/>
@@ -32,8 +32,6 @@
       </array>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

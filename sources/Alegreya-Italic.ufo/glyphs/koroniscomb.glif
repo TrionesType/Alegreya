@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="koroniscomb" format="2">
   <unicode hex="0343"/>
-  <anchor x="123" y="452" name="_top"/>
+  <anchor x="12" y="452" name="_top"/>
   <outline>
-    <component base="psili"/>
+    <component base="psili" xOffset="-111"/>
   </outline>
   <lib>
     <dict>
@@ -23,11 +23,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=quoteright</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>401</integer>
+      <integer>191</integer>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

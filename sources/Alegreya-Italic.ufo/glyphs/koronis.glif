@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="koronis" format="2">
-  <advance width="401"/>
+  <advance width="191"/>
   <unicode hex="1FBD"/>
-  <anchor x="123" y="452" name="_top"/>
+  <anchor x="12" y="452" name="_top"/>
   <outline>
-    <component base="psili"/>
+    <component base="psili" xOffset="-111"/>
   </outline>
   <lib>
     <dict>
@@ -25,8 +25,6 @@
       <string>=quoteright</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

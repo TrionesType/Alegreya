@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsilioxiaprosgegrammeni.ss05" format="2">
   <advance width="993"/>
-  <anchor x="464" y="0" name="bottom"/>
-  <anchor x="716" y="40" name="ogonek"/>
+  <anchor x="586" y="0" name="bottom"/>
+  <anchor x="838" y="40" name="ogonek"/>
   <anchor x="285" y="677" name="top"/>
-  <anchor x="303" y="637" name="topleft"/>
+  <anchor x="425" y="637" name="topleft"/>
   <outline>
     <component base="Alphaprosgegrammeni.ss05" xOffset="214"/>
     <component base="psilioxia.case" xOffset="4" yOffset="-36"/>
@@ -28,8 +28,6 @@
       <string>=Alphaprosgegrammeni</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

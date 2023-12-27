@@ -6,10 +6,4 @@
     <component base="u-cy.sc"/>
     <component base="hungarumlautcomb" xOffset="108" yOffset="46"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

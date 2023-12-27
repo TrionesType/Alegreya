@@ -10,10 +10,4 @@
     <component base="Y"/>
     <component base="strokeshortcomb" xOffset="33" yOffset="-62"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

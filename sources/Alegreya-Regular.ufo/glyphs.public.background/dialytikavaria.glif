@@ -2,15 +2,15 @@
 <glyph name="dialytikavaria" format="2">
   <outline>
     <contour>
-      <point x="235.532" y="505.486" type="line"/>
-      <point x="226.952" y="506.316" type="line"/>
-      <point x="136.246" y="661.908" type="line"/>
-      <point x="137.89" y="671.53" type="line"/>
-      <point x="184.68" y="697.06" type="line"/>
+      <point x="235.53199999999998" y="505.48600000000005" type="line"/>
+      <point x="226.952" y="506.31600000000003" type="line"/>
+      <point x="136.24599999999998" y="661.9080000000001" type="line"/>
+      <point x="137.89" y="671.5300000000001" type="line"/>
+      <point x="184.67999999999995" y="697.06" type="line"/>
       <point x="193.26" y="696.23" type="line"/>
-      <point x="214.818" y="635.764"/>
-      <point x="238.004" y="577.382"/>
-      <point x="264.202" y="517.486" type="curve"/>
+      <point x="214.81799999999998" y="635.764"/>
+      <point x="238.004" y="577.3820000000001"/>
+      <point x="264.202" y="517.4860000000001" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eta.sc" format="2">
   <advance width="639"/>
+  <anchor x="320" y="497" name="top"/>
   <anchor x="320" y="0" name="bottom"/>
   <anchor x="513" y="87" name="bottomright"/>
   <anchor x="320" y="249" name="center"/>
-  <anchor x="320" y="497" name="top"/>
   <outline>
     <component base="h.sc"/>
   </outline>
@@ -23,8 +23,6 @@
       </dict>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

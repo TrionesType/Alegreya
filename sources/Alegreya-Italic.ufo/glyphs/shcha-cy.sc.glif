@@ -122,8 +122,6 @@
       </dict>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

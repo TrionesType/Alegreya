@@ -10,10 +10,4 @@
     <component base="Yeru-cy"/>
     <component base="dieresiscomb.case" xOffset="223" yOffset="-1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

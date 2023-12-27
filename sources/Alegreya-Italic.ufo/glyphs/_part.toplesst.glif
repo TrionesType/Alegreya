@@ -41,8 +41,6 @@
       <string>=t</string>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

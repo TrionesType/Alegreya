@@ -8,10 +8,4 @@
     <component base="u-cy"/>
     <component base="macroncomb" xOffset="27"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

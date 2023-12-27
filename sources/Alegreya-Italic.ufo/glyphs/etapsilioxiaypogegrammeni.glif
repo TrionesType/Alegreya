@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="etapsilioxiaypogegrammeni" format="2">
-  <advance width="471"/>
+  <advance width="484"/>
   <unicode hex="1F94"/>
   <anchor x="43" y="-232" name="bottom"/>
   <anchor x="368" y="713" name="top"/>
@@ -16,8 +16,6 @@
       <string>=eta</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

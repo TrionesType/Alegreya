@@ -4,10 +4,4 @@
   <unicode hex="000D"/>
   <outline>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
-    </dict>
-  </lib>
 </glyph>

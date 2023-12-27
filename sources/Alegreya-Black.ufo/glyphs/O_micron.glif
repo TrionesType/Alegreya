@@ -2,10 +2,10 @@
 <glyph name="Omicron" format="2">
   <advance width="655"/>
   <unicode hex="039F"/>
+  <anchor x="-56" y="647" name="topleft"/>
   <anchor x="328" y="0" name="bottom"/>
   <anchor x="328" y="324" name="center"/>
   <anchor x="589" y="10" name="ogonek"/>
-  <anchor x="-56" y="647" name="topleft"/>
   <anchor x="635" y="647" name="topright"/>
   <outline>
     <component base="O"/>
@@ -14,8 +14,6 @@
     <dict>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>850</integer>
     </dict>
   </lib>
 </glyph>

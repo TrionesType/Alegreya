@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
-      <map input="400" output="73"/>
-      <map input="500" output="94"/>
-      <map input="700" output="119"/>
-      <map input="800" output="144"/>
-      <map input="900" output="175"/>
+    <axis tag="wght" name="Weight" minimum="73" maximum="175" default="73">
+      <map input="73" output="400"/>
+      <map input="94" output="500"/>
+      <map input="119" output="700"/>
+      <map input="144" output="800"/>
+      <map input="175" output="900"/>
     </axis>
   </axes>
   <rules>
-    <rule name="BRACKET.Weight_130_175">
+    <rule name="BRACKET.Weight_130_900">
       <conditionset>
-        <condition name="Weight" minimum="130" maximum="175"/>
+        <condition name="Weight" minimum="130" maximum="900"/>
       </conditionset>
       <sub name="oslashacute.sc" with="oslashacute.sc.BRACKET.varAlt01"/>
       <sub name="oslash.sc" with="oslash.sc.BRACKET.varAlt01"/>
@@ -31,9 +31,9 @@
       <sub name="cent" with="cent.BRACKET.varAlt01"/>
       <sub name="cedi" with="cedi.BRACKET.varAlt01"/>
     </rule>
-    <rule name="BRACKET.Weight_100_175">
+    <rule name="BRACKET.Weight_100_900">
       <conditionset>
-        <condition name="Weight" minimum="100" maximum="175"/>
+        <condition name="Weight" minimum="100" maximum="900"/>
       </conditionset>
       <sub name="daggerdbl" with="daggerdbl.BRACKET.varAlt01"/>
       <sub name="dagger" with="dagger.BRACKET.varAlt01"/>
